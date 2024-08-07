@@ -1,0 +1,8 @@
+1. Sentiment analysis (articles)
+2. Get info about each player: age, injury history, stats, etc.
+3. Combine stats from last season along with injury history and age
+4. Factor in coaching changes
+
+To Do:
+1. Look at similar sites to see what they're doing
+2. Think about what models make sense for prediction - what does IBM do for projections?
